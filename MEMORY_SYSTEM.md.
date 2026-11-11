@@ -1,0 +1,147 @@
+J.A.R.V.I.S. — MEMORY SYSTEM
+
+1. Purpose
+
+The Memory System allows J.A.R.V.I.S. to remember relevant information and maintain context across conversations.
+
+Its purpose is to make interactions consistent, useful and personalized.
+
+2. Memory Architecture
+
+The system consists of four memory levels.
+
+2.1 Short-Term Memory
+
+Stores information from the current conversation.
+
+Examples:
+
+- Recent messages.
+- Current discussion.
+- Temporary context.
+- Recently mentioned information.
+
+Short-term memory should be temporary.
+
+2.2 Long-Term Memory
+
+Stores useful information that may remain relevant over time.
+
+Examples:
+
+- User preferences.
+- Important personal goals.
+- Frequently used settings.
+- Relevant long-term plans.
+
+The system should avoid storing unnecessary personal information.
+
+2.3 Working Memory
+
+Stores information required for ongoing activities.
+
+Examples:
+
+- Current projects.
+- Unfinished tasks.
+- Active plans.
+- Pending decisions.
+
+Working memory should be updated as tasks progress.
+
+2.4 Contextual Memory
+
+Connects related information from different conversations.
+
+Examples:
+
+- Previous decisions.
+- Related projects.
+- Earlier discussions.
+- Relevant events.
+
+The system should use contextual memory only when it is relevant.
+
+3. Memory Management
+
+The assistant should be able to:
+
+- Identify potentially useful information.
+- Distinguish temporary information from long-term information.
+- Update outdated memories.
+- Detect conflicting information.
+- Retrieve relevant memories.
+- Avoid unnecessary repetition.
+
+4. Memory Accuracy
+
+Every stored memory should have relevant metadata:
+
+- Creation date.
+- Last update date.
+- Information source.
+- Confidence level.
+- Relevance.
+
+The assistant must distinguish confirmed facts from assumptions.
+
+5. User Control
+
+The user must be able to:
+
+- View stored memories.
+- Correct inaccurate information.
+- Delete individual memories.
+- Clear selected categories.
+- Disable automatic memory collection.
+
+Sensitive information should receive additional protection.
+
+6. Privacy and Security
+
+The Memory System should:
+
+- Store personal information securely.
+- Restrict access to authorized components.
+- Avoid unnecessary data collection.
+- Protect information during transmission.
+- Never expose private memories to unauthorized users.
+
+7. Offline Memory
+
+Basic memory functions should work without an internet connection.
+
+Offline capabilities:
+
+- Accessing saved memories.
+- Creating local notes.
+- Updating task information.
+- Retrieving saved preferences.
+
+Synchronization may occur when an internet connection becomes available.
+
+8. Memory Retrieval
+
+When responding to a request, J.A.R.V.I.S. should:
+
+1. Identify relevant context.
+2. Search available memories.
+3. Evaluate relevance and accuracy.
+4. Use reliable information.
+5. Avoid using outdated or unrelated memories.
+
+9. Future Improvements
+
+Possible future features:
+
+- Semantic memory search.
+- Automatic memory organization.
+- Memory importance ranking.
+- Duplicate detection.
+- Context relationship mapping.
+
+10. Development Status
+
+Status: Planning.
+
+The Memory System has not yet been implemented.
