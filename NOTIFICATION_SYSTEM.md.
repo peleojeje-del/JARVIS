@@ -1,0 +1,112 @@
+J.A.R.V.I.S. — NOTIFICATION SYSTEM
+
+1. Purpose
+
+The Notification System allows J.A.R.V.I.S. to communicate important information to the user outside active conversations.
+
+Its purpose is to provide useful reminders, updates and proactive notifications.
+
+2. Notification Types
+
+The system should support:
+
+- Task reminders.
+- Scheduled notifications.
+- Important alerts.
+- Project updates.
+- Task completion reports.
+- Connection status notifications.
+- Assistant status notifications.
+
+3. Reminders
+
+J.A.R.V.I.S. should be able to:
+
+- Create reminders.
+- Edit existing reminders.
+- Delete reminders.
+- Mark reminders as completed.
+- Organize reminders by importance.
+- Support recurring reminders.
+
+The user should be able to manage all reminders.
+
+4. Proactive Notifications
+
+The assistant may independently suggest notifications when relevant.
+
+Examples:
+
+- An unfinished task.
+- An upcoming event.
+- An important project deadline.
+- A previously requested follow-up.
+
+Proactive notifications should be useful and not excessive.
+
+5. Notification Priority
+
+Notifications should have three priority levels.
+
+Low Priority
+
+General information and optional suggestions.
+
+Normal Priority
+
+Regular reminders and task updates.
+
+High Priority
+
+Important events and time-sensitive information.
+
+The user should be able to customize notification priorities.
+
+6. Notification Settings
+
+The user should be able to:
+
+- Enable or disable notifications.
+- Configure notification categories.
+- Adjust notification sounds.
+- Set quiet hours.
+- Control notification frequency.
+
+7. Android Integration
+
+The system should use supported Android notification APIs.
+
+It must respect:
+
+- Notification permissions.
+- Background execution restrictions.
+- Battery optimization.
+- User-defined notification settings.
+
+8. Offline Notifications
+
+Basic scheduled reminders should work without an internet connection whenever Android allows it.
+
+Online-dependent notifications should clearly indicate their requirements.
+
+9. Privacy
+
+Notifications must avoid exposing sensitive information unnecessarily.
+
+The user should be able to control what appears on the lock screen.
+
+10. Future Improvements
+
+Possible future features:
+
+- Context-aware notifications.
+- Smart reminder scheduling.
+- Priority prediction.
+- Voice-based reminders.
+- Intelligent notification grouping.
+
+11. Development Status
+
+Status: Planning.
+
+The Notification System has not yet been implemented.
