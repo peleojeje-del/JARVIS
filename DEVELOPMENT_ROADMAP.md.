@@ -1,0 +1,154 @@
+J.A.R.V.I.S. — DEVELOPMENT ROADMAP
+
+1. Project Goal
+
+Build a personal AI assistant for Android inspired by J.A.R.V.I.S. from Iron Man.
+
+The assistant should support natural voice interaction, intelligent reasoning, memory, task execution and proactive assistance.
+
+2. Phase 1 — Planning and Architecture
+
+- Define project requirements.
+- Design system architecture.
+- Document AI Core.
+- Design the Memory System.
+- Design the Voice System.
+- Design the Action System.
+- Define security requirements.
+- Design the user interface.
+
+Status: In Progress.
+
+3. Phase 2 — Development Environment
+
+- Obtain a suitable development laptop.
+- Install Android Studio.
+- Configure Kotlin.
+- Set up the Android project.
+- Configure Git and GitHub integration.
+- Create the initial application structure.
+
+Status: Planned.
+
+4. Phase 3 — Basic Android Application
+
+- Create the main application screen.
+- Implement the J.A.R.V.I.S. visual identity.
+- Build the energy core interface.
+- Add basic animations.
+- Create application settings.
+- Implement manual activation.
+
+Status: Planned.
+
+5. Phase 4 — Voice System
+
+- Implement speech recognition.
+- Implement text-to-speech.
+- Add voice activation where supported.
+- Create listening and speaking states.
+- Add audio feedback.
+- Implement voice interruption.
+
+Status: Planned.
+
+6. Phase 5 — AI Core
+
+- Integrate an AI model through an API.
+- Implement request processing.
+- Add conversation context.
+- Develop reasoning and decision-making.
+- Implement personality rules.
+- Add error handling.
+
+Status: Planned.
+
+7. Phase 6 — Memory System
+
+- Implement short-term memory.
+- Implement long-term memory.
+- Implement working memory.
+- Implement contextual memory.
+- Add memory search.
+- Add user memory controls.
+- Secure local data storage.
+
+Status: Planned.
+
+8. Phase 7 — Action System
+
+- Implement Android application launching.
+- Add notes and reminders.
+- Integrate supported Android features.
+- Add permission management.
+- Implement action confirmation.
+- Add action history.
+
+Status: Planned.
+
+9. Phase 8 — Offline System
+
+- Implement offline command handling.
+- Add local data access.
+- Integrate available offline speech services.
+- Evaluate local AI models.
+- Implement online/offline switching.
+
+Status: Planned.
+
+10. Phase 9 — Notifications
+
+- Implement scheduled reminders.
+- Add notification categories.
+- Configure notification priorities.
+- Add quiet hours.
+- Implement proactive suggestions.
+
+Status: Planned.
+
+11. Phase 10 — Testing and Optimization
+
+- Test voice recognition.
+- Test AI responses.
+- Test memory accuracy.
+- Test Android permissions.
+- Test offline functionality.
+- Optimize performance.
+- Improve battery efficiency.
+- Fix bugs and security issues.
+
+Status: Planned.
+
+12. Phase 11 — Future Development
+
+Possible future improvements:
+
+- Advanced autonomous planning.
+- Smart home integration.
+- Additional AI models.
+- Improved local AI capabilities.
+- More advanced voice interaction.
+- Expanded Android integrations.
+- Personalized assistant behavior.
+
+Status: Future.
+
+13. Development Principles
+
+The project should follow these principles:
+
+- Build incrementally.
+- Test every major component.
+- Prioritize security and privacy.
+- Keep the architecture modular.
+- Avoid unnecessary complexity.
+- Maintain clear documentation.
+- Preserve user control over important actions.
+
+14. Current Project Status
+
+Current stage: Planning and Architecture.
+
+The project is not yet implemented as an Android application.
+
+The next major milestone is preparing the development environment and creating the initial Android project.
